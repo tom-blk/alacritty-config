@@ -1,0 +1,4 @@
+[window]
+startup_mode = "Fullscreen"
+opacity = 0.6
+padding= {x=7, y=7}
